@@ -55,7 +55,7 @@ I have uploaded both the versions in GitHub
 
 ![Flampy Birmd 2.0](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Flampy%20Birmd%202.0.png)
 
-**The 2.0 Version is still a work in progress.** Things i will have to fix include but are not limited to:
+**The 2.0 Version is still a work in progress.** Things I will have to fix include but are not limited to:
 
 * Make the arrow fall down after it hits the target
 * If the arrow doesn't hit the target, the bird will fly indefinitely. I would want to kill the bird if the arrow misses the target.
@@ -64,7 +64,7 @@ I have uploaded both the versions in GitHub
 *Download and extract the Flampy Birmd 2.0 .zip file to access the game.*
 *Open the FlampyBirmd.exe to run the game*
 
-I have started working on another UNITY 2D project. This time i am attempting to recreate a platformer inspired by Mario forever with the knowledge i have gained from this project.
+I have started working on another UNITY 2D project. This time I am attempting to recreate a platformer inspired by Mario forever with the knowledge i have gained from this project.
 
 ***A TINY ACHIEVEMENT***
 
